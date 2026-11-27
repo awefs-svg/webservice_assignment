@@ -6,7 +6,7 @@
 3. Week13_Docker_Lab_KO.html 안내를 0번 준비부터 7번 정리까지 순서대로 진행합니다.
 
 - 시작 파일: index.html, Dockerfile, .dockerignore
-- 기본 이미지 : nginx1.28-alpine
+- 기본 이미지 : nginx:1.28-alpine
 - Dockerfile은 확장자가 없는 파일입니다. Dockerfile.txt로 바꾸지 마세요.
 - HTML의 변경은 실습 6에서 수행합니다. 시작할 때는 v1 상태를 유지합니다.
 - 첫 이미지 다운로드에는 인터넷이 필요합니다.
